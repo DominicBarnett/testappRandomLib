@@ -1,0 +1,1 @@
+npm library repo: https://github.com/DominicBarnett/RandomLib
